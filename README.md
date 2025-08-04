@@ -1,0 +1,2 @@
+# sentiment_modle
+用NLTK movie_reviews数据训练影片评论情感模型
